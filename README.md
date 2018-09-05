@@ -27,7 +27,7 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 
 <br>
 
-## API Project No2: Request Header Parser Microservice for freeCodeCamp
+- ## API Project No2: Request Header Parser Microservice for freeCodeCamp
 
 ### url: [https://headerpars.glitch.me](https://headerpars.glitch.me)
 
@@ -43,7 +43,7 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 <br>
 
 
-## API Project No3: URL Shortener Microservice for freeCodeCamp
+- ## API Project No3: URL Shortener Microservice for freeCodeCamp
 
 ### url: [https://urlshorte.glitch.me](https://urlshorte.glitch.me)
 
@@ -69,7 +69,7 @@ https://www.google.com
 
 <br>
 
-## API Project No4: File Metadata Microservice for freeCodeCamp
+- ## API Project No4: File Metadata Microservice for freeCodeCamp
 
 ### url: [https://filemetada.glitch.me](https://filemetada.glitch.me)
 
@@ -86,12 +86,12 @@ https://www.google.com
 
 <br>
 
-## API Project No5: Exercise Tracker
+- ## API Project No5: Exercise Tracker
 
-### url: [https://trackerexe.glitch.me](https://trackerexe.glitch.me)
+  ### url: [https://trackerexe.glitch.me](https://trackerexe.glitch.me)
 
-###    User stories:
-1. I can create a new user in my database.
-2. I can create a new exercise for a selected user in my database.
-3. I can retrieve a users exercises.
+  ###    User stories:
+  1. I can create a new user in my database.
+  2. I can create a new exercise for a selected user in my database.
+  3. I can retrieve a users exercises.
 
