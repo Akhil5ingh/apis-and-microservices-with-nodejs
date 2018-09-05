@@ -1,6 +1,6 @@
 # Apis and Microservices Projects
 Simple Microservices with node.js and express. Created in [Glitch](https://glitch.com).
-Technologies used: Node.js, Express.js, javaScript, HTML, CSS
+Technologies used: Node.js, Express.js, Mongodb, mongoose.js, javaScript, HTML, CSS
 
 <br>
 
