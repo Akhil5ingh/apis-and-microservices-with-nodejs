@@ -83,3 +83,15 @@ https://www.google.com
 
 ### Hint:
 * To handle the file uploading you should use the [multer](https://www.npmjs.com/package/multer) npm package.
+
+<br>
+
+## API Project No5: Exercise Tracker
+
+### url: [https://trackerexe.glitch.me](https://trackerexe.glitch.me)
+
+###    User stories:
+1. I can create a new user in my database.
+2. I can create a new exercise for a selected user in my database.
+3. I can retrieve a users exercises.
+
